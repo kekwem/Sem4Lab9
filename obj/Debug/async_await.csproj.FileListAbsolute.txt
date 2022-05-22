@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\async_await\bin\Debug\async_await.exe.config
+C:\Users\Dimon\source\repos\async_await\bin\Debug\async_await.exe
+C:\Users\Dimon\source\repos\async_await\bin\Debug\async_await.pdb
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.Form1.resources
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.Properties.Resources.resources
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.exe
+C:\Users\Dimon\source\repos\async_await\obj\Debug\async_await.pdb
